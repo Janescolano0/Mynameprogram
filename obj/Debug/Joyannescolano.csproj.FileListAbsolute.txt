@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\bin\Debug\Joyannescolano.exe.config
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\bin\Debug\Joyannescolano.exe
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\bin\Debug\Joyannescolano.pdb
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.Properties.Resources.resources
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.exe
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.pdb
+C:\Users\Acer\source\repos\Joyannescolano\Joyannescolano\obj\Debug\Joyannescolano.Form1.resources
